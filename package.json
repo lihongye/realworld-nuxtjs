@@ -1,0 +1,27 @@
+{
+  "name": "lhy-fed-e-task-03-03",
+  "version": "1.0.0",
+  "description": "nuxt 实现 realworld",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/chen_xiaogua/czg-lg-task-03-03.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cookieparser": "^0.1.0",
+    "dayjs": "^1.9.6",
+    "js-cookie": "^2.2.1",
+    "markdown-it": "^12.0.2",
+    "nuxt": "^2.14.7"
+  }
+}
