@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "lhy-fed-e-task-03-03",
+            "script": "npm",
+            "args": "start"
+        }
+    ]
+}
