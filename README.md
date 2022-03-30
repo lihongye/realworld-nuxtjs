@@ -1,5 +1,9 @@
 # 编程题
 
+#### 部署成功的服务器地址:  http://106.75.37.42:3000/
+
+
+
 #### 1.使用 NuxtJS 实现 RealWorld 全部功能
 
 - **RealWorld 官网**   https://gothinkster.github.io/realworld/
